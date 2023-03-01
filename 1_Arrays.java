@@ -1,1 +1,1 @@
-Write or Copy pste Code here
+Write or Copy paste Code here
