@@ -9,7 +9,7 @@ Call by Value (in Java) video
 Product of a & b video
 Find Factorial
 Find Binomial Coefficient video
-Inbuilt v/s User defined Methods video
+Inbuilt v/s User-defined Methods video
 Function Overloading video
 Overloading using Parameters video
 Overloading using Data Types video
@@ -22,3 +22,24 @@ Decimal to Binary video
 Code - Decimal to Binary video
 Method Scope 
 Block Scope 
+
+
+13. ARRAYS
+
+Arrays - Creation video
+Arrays - Input, Output & Update V video
+Arrays as Function Arguments video
+Space & Time Complexity (Reading Material .. This is a bonus reading material about S & T)
+Linear Search 
+Largest in Array 
+Binary Search 
+Binary Search Code 
+Reverse an Array 
+Pairs in Array
+Print Subarrays
+Max Subarray Sum - I (Brute Force) video
+Max Subarray Sum - II (Prefix Sum) video
+Max Subarray Sum - III (Kadane's Algor.
+Trapping Rainwater video
+Trapping Rainwater - Code video
+Best Time to Buy & Sell Stock video
