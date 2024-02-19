@@ -39,7 +39,7 @@ Pairs in Array
 Print Subarrays
 Max Subarray Sum - I (Brute Force) video
 Max Subarray Sum - II (Prefix Sum) video
-Max Subarray Sum - III (Kadane's Algor.
+Max Subarray Sum - III (Kadane's Algorithm)
 Trapping Rainwater video
 Trapping Rainwater - Code video
 Best Time to Buy & Sell Stock video
